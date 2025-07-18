@@ -1,0 +1,13 @@
+../X-CUBE-AI/App/tinycnnbuow.c:857:9:tinycnnbuow_configure_activations	2
+../X-CUBE-AI/App/tinycnnbuow.c:922:9:tinycnnbuow_configure_weights	2
+../X-CUBE-AI/App/tinycnnbuow.c:973:9:ai_tinycnnbuow_get_info	4
+../X-CUBE-AI/App/tinycnnbuow.c:1020:9:ai_tinycnnbuow_get_report	4
+../X-CUBE-AI/App/tinycnnbuow.c:1067:10:ai_tinycnnbuow_get_error	1
+../X-CUBE-AI/App/tinycnnbuow.c:1074:10:ai_tinycnnbuow_create	1
+../X-CUBE-AI/App/tinycnnbuow.c:1085:10:ai_tinycnnbuow_create_and_init	8
+../X-CUBE-AI/App/tinycnnbuow.c:1120:12:ai_tinycnnbuow_inputs_get	2
+../X-CUBE-AI/App/tinycnnbuow.c:1131:12:ai_tinycnnbuow_outputs_get	2
+../X-CUBE-AI/App/tinycnnbuow.c:1142:11:ai_tinycnnbuow_destroy	1
+../X-CUBE-AI/App/tinycnnbuow.c:1149:9:ai_tinycnnbuow_init	2
+../X-CUBE-AI/App/tinycnnbuow.c:1166:8:ai_tinycnnbuow_run	1
+../X-CUBE-AI/App/tinycnnbuow.c:1174:8:ai_tinycnnbuow_forward	1
